@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperppdate",
+        "uuid": 1395000,
+        "checksum": "5bapkj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
